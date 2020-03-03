@@ -1,0 +1,1 @@
+TRUNCATE bookmark_list;
